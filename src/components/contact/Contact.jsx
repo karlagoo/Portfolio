@@ -1,4 +1,5 @@
 import React from "react";
+import './contact.css';
 
 function Contact() {
   return (
@@ -76,7 +77,7 @@ function Contact() {
               />
             </div>
 
-            <div className="contact__form-div">
+            <div className="contact__form-div contact__form-area">
               <label className="contact__form-tag">Questions?</label>
               <textarea
                 name="questions"
