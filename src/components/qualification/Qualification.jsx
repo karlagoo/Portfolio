@@ -87,7 +87,7 @@ function Qualification() {
               </div>
             </div>
 
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Junior Web Developer</h3>
                 <span className="qualification__subtitle">Metropolis Tech</span>
@@ -100,9 +100,9 @@ function Qualification() {
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-            </div>
+            </div> */}
 
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div></div>
 
               <div>
@@ -119,7 +119,7 @@ function Qualification() {
                   <i className="uil uil-calendar-alt"></i> 2022 - Present
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
 
           <div
@@ -131,10 +131,10 @@ function Qualification() {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Job 1</h3>
-                <span className="qualification__subtitle">Job Location 1</span>
+                <h3 className="qualification__title">Financial Clearance Specialist</h3>
+                <span className="qualification__subtitle">Northwestern Memorial Hospital</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2012 - 2016
+                  <i className="uil uil-calendar-alt"></i> 2019 - 2022
                 </div>
               </div>
 
@@ -153,18 +153,18 @@ function Qualification() {
               </div>
 
               <div>
-                <h3 className="qualification__title">Job 2</h3>
-                <span className="qualification__subtitle">Job Location 2</span>
+                <h3 className="qualification__title">Junior Software Developer</h3>
+                <span className="qualification__subtitle">Metropolis Tech</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2021
+                  <i className="uil uil-calendar-alt"></i> 2022 - Present
                 </div>
               </div>
             </div>
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Job 3</h3>
-                <span className="qualification__subtitle">Job Location 3</span>
+                <h3 className="qualification__title">Technical Product Manager</h3>
+                <span className="qualification__subtitle">Metropolis Tech - InHealth Jobs</span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> 2022 - Present
                 </div>
