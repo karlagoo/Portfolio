@@ -50,7 +50,7 @@ function Contact() {
                 href="https://api.whatsapp.com/send?phone=7732259870&text-Hello, more information!"
                 className="contact__button"
               >
-                Write me{" "}
+                Call me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>

@@ -10,7 +10,7 @@ function Qualification() {
     };
 
   return (
-    <section className="qualification section">
+    <section className="qualification section" id="qualifications">
       <h2 className="section__title">Qualifications</h2>
       <span className="section__subtitle">My Personal Journey</span>
 
