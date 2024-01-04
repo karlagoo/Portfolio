@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="footer__container container">
-        <h1 className="footer title">Goo</h1>
+        <h1 className="footer__title">Goo</h1>
 
         <ul className="footer__list">
           <li>
@@ -30,7 +30,7 @@ function Footer() {
         <div className="footer__social">
           <a
             href="https://github.com/karlagoo"
-            className="home__social-icon"
+            className="footer__social-link"
             target="_blank"
           >
             <i class="bx bxl-github"></i>
@@ -38,7 +38,7 @@ function Footer() {
 
           <a
             href="https://www.linkedin.com/in/karlagoo/"
-            className="home__social-icon"
+            className="footer__social-link"
             target="_blank"
           >
             <i className="bx bxl-linkedin"></i>
@@ -46,14 +46,16 @@ function Footer() {
 
           <a
             href="https://www.instagram.com/itsgoocci/"
-            className="home__social-icon"
+            className="footer__social-link"
             target="_blank"
           >
             <i class="bx bxl-instagram"></i>
           </a>
         </div>
 
-        <span className="footer__copy">&#169; Karla Goo. All rights reserved</span>
+        <span className="footer__copy">
+          &#169; Karla Goo. All rights reserved
+        </span>
       </div>
     </footer>
   );
