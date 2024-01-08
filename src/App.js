@@ -4,6 +4,7 @@ import Home from './components/home/Home.jsx';
 import About from './components/about/About.jsx';
 import Skills from './components/skills/Skills.jsx';
 import Qualification from './components/qualification/Qualification.jsx';
+import Work from './components/work/Work.jsx';
 import Contact from './components/contact/Contact.jsx';
 import Footer from './components/footer/Footer.jsx';
 import ScrollUp from './components/scrollup/ScrollUp.jsx';
@@ -17,6 +18,7 @@ function App() {
         <About />
         <Skills />
         <Qualification />
+        <Work />
         <Contact />
       </main>
 
