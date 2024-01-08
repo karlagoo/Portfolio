@@ -12,14 +12,14 @@ function Projects() {
       setProjects(projectsData);
     } else {
       const newProjects = projectsData.filter((project) => {
-        return project.category.toLocaleLowerCase() === item.name;
+        return project.category.toLowerCase() === item.name;
       });
       setProjects(newProjects);
     }
   }, [item]);
 
   const handleClick = (e, index) =>{
-    setItem({name: e.target.textContent.toLocaleLowerCase()});
+    setItem({name: e.target.textContent.toLowerCase()});
     setActive(index);
   };
   return (
