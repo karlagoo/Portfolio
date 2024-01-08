@@ -1,8 +1,9 @@
 import React from 'react';
-import './work.css';
+import './project.css';
 import Projects from './Projects';
+import ProjectItems from './ProjectItems';
 
-function Work() {
+function Project() {
   return (
    <section className="work section" id="portfolio">
     <h2 className="section__title">Portfolio</h2>
@@ -13,4 +14,4 @@ function Work() {
   )
 }
 
-export default Work
+export default Project
