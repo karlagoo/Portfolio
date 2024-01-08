@@ -9,13 +9,13 @@ export const projectsData = [
         id: 1,
         image: Project1,
         title: 'Tastyyy',
-        category: 'Web App',
+        category: 'React app',
     },
     {
         id: 2,
         image: Project2,
         title: 'Enlace',
-        category: 'Web App',
+        category: 'MERN Stack',
     },
     {
         id: 3,
@@ -27,13 +27,13 @@ export const projectsData = [
         id: 4,
         image: Project4,
         title: 'Star Spangled Memer',
-        category: 'Web App',
+        category: 'API',
     },
     {
         id: 5,
         image: Project5,
         title: 'Weather App',
-        category: 'Web App',
+        category: 'API',
     },
 ];
 
@@ -42,12 +42,15 @@ export const projectsNav = [
     name: "all",
   },
   {
-    name: "Web App",
+    name: "API",
+  },
+  {
+    name: "MERN Stack",
   },
   {
     name: "Web App",
   },
   {
-    name: "Web App",
+    name: "React app",
   },
 ];
