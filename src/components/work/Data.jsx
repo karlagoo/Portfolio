@@ -16,6 +16,7 @@ export const projectsData = [
     id: 2,
     image: Project2,
     title: "Enlace",
+    subtitle: "(Link not working due to lack of payment)",
     category: "MERN Stack",
     link: "https://enlace.herokuapp.com/",
   },
