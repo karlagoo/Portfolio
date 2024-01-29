@@ -10,14 +10,16 @@ export const projectsData = [
     image: Project1,
     title: "Tastyyy",
     category: "React app",
+    github: "https://github.com/karlagoo/tastyyy",
     link: "https://tastyyy-636317356501.herokuapp.com/",
   },
   {
     id: 2,
     image: Project2,
     title: "Enlace",
-    subtitle: "(Link not working due to lack of payment)",
+    subtitle: "(Demo not working due to lack of payment)",
     category: "MERN Stack",
+    github: "https://github.com/karlagoo/enlace",
     link: "https://enlace.herokuapp.com/",
   },
   {
@@ -25,6 +27,7 @@ export const projectsData = [
     image: Project3,
     title: "Nanny Poppins",
     category: "Web App",
+    github: "https://github.com/p2t4-require-espresso/nanny-poppins",
     link: "https://nanny-poppins.herokuapp.com/",
   },
   {
@@ -32,6 +35,8 @@ export const projectsData = [
     image: Project4,
     title: "Star Spangled Memer",
     category: "API",
+    github:
+      "https://github.com/p1t1-Web-Dev-Wizards/Project1---horoscope-memes",
     link: "https://p1t1-web-dev-wizards.github.io/Project1---horoscope-memes/",
   },
   {
@@ -39,6 +44,7 @@ export const projectsData = [
     image: Project5,
     title: "Weather App",
     category: "API",
+    github: "https://github.com/karlagoo/Weather-Dashboard",
     link: "https://karlagoo.github.io/Weather-Dashboard/",
   },
 ];
