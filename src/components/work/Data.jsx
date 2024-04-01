@@ -1,8 +1,9 @@
-import Project1 from '../../assets/tastyyy.jpg';
-import Project2 from '../../assets/Enlace.jpg';
-import Project3 from '../../assets/Nanny-Poppins copy.jpg';
-import Project4 from '../../assets/star-spangled-memer.jpg';
-import Project5 from '../../assets/weatherapp.jpg';
+import Project1 from "../../assets/tastyyy.jpg";
+import Project2 from "../../assets/Enlace.jpg";
+import Project3 from "../../assets/Nanny-Poppins copy.jpg";
+import Project4 from "../../assets/star-spangled-memer.jpg";
+import Project5 from "../../assets/weatherapp.jpg";
+import Project6 from "../../assets/converter.jpg";
 
 export const projectsData = [
   {
@@ -46,6 +47,14 @@ export const projectsData = [
     category: "API",
     github: "https://github.com/karlagoo/Weather-Dashboard",
     link: "https://karlagoo.github.io/Weather-Dashboard/",
+  },
+  {
+    id: 6,
+    image: Project6,
+    title: "Master Converter",
+    category: "React app",
+    github: "https://github.com/karlagoo/converter-master",
+    link: "https://converter-master-3cbbc1cb200d.herokuapp.com/",
   },
 ];
 
