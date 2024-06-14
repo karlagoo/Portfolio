@@ -154,9 +154,9 @@ function Qualification() {
 
               <div>
                 <h3 className="qualification__title">Junior Software Developer</h3>
-                <span className="qualification__subtitle">Metropolis Tech</span>
+                <span className="qualification__subtitle">InHealth Jobs</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2022 - Present
+                  <i className="uil uil-calendar-alt"></i> 2022 - 2024
                 </div>
               </div>
             </div>
@@ -164,9 +164,9 @@ function Qualification() {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Technical Product Manager</h3>
-                <span className="qualification__subtitle">Metropolis Tech - InHealth Jobs</span>
+                <span className="qualification__subtitle">InHealth Jobs</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2022 - Present
+                  <i className="uil uil-calendar-alt"></i> 2022 - 2024
                 </div>
               </div>
 

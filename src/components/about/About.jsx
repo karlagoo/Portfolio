@@ -1,7 +1,7 @@
 import React from 'react';
 import './about.css';
 import AboutImg from '../../assets/about.jpg';
-import CV from '../../assets/Goo-Cv.pdf';
+import CV from '../../assets/Goo-Cv.docx';
 import Info from './Info';
 
 function About() {
@@ -19,7 +19,7 @@ function About() {
           <p className="about__description">
             I have a certification of full-stack web development. I primarily
             learned the MERN stack when I completed the Northwestern coding
-            bootcamp in 2021. I currently have over 1 year of experience under
+            bootcamp in 2021. I currently have over 2 years of experience under
             my belt and in addition to that I have experience in product
             management. I have worked with a large team of developers as well as
             the leadership team to complete projects and release new business

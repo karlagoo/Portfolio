@@ -4,6 +4,7 @@ import Project3 from "../../assets/Nanny-Poppins copy.jpg";
 import Project4 from "../../assets/star-spangled-memer.jpg";
 import Project5 from "../../assets/weatherapp.jpg";
 import Project6 from "../../assets/converter.jpg";
+import Project7 from "../../assets/the-wedding.gif";
 
 export const projectsData = [
   {
@@ -13,6 +14,14 @@ export const projectsData = [
     category: "React app",
     github: "https://github.com/karlagoo/tastyyy",
     link: "https://tastyyy-636317356501.herokuapp.com/",
+  },
+  {
+    id: 7,
+    image: Project7,
+    title: "The Wedding",
+    category: "React app",
+    github: "https://github.com/karlagoo/wedding-website",
+    link: "https://the-wedding-d9d09634e422.herokuapp.com/",
   },
   {
     id: 2,
